@@ -9,7 +9,7 @@ Here are the active links of some of my Frontend work hosted online:
  - Live link: https://ahmedyahyae.github.io/google-clone/
  - Repository link: https://github.com/AhmedYahyaE/google-clone
 
-**3- Responsive (CSS3 Media Queries - no frameworks) Business/Company Website Template Design:**
+**3- Responsive (CSS3 Media Queries - No frameworks) Business/Company Website Template Design:**
  - Live link: https://ahmedyahyae.github.io/business-website-template-6/
  - Repository link: https://github.com/AhmedYahyaE/business-website-template-6
 
